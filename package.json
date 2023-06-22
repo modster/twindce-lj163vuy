@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.twindce-lj163vuy",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve H5DkKv0mjxjcTCDkAtBT --open"
+  }
+}
